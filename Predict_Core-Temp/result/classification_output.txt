@@ -1,0 +1,1251 @@
+start -> 2021-10-13 06:06:05
+Shape checking X_test : (35, 4, 4)
+Shape checking X_train : (140, 4, 4)
+start -> 2021-10-13 06:08:40
+Shape checking X_test : (35, 4, 4)
+Shape checking X_train : (140, 4, 4)
+Model Test loss -> 1.9507825374603271, Model Test accuracy -> 0.2857142984867096
+finish -> 2021-10-13 06:08:47
+Confusion Matrix -> 
+[[1 0 0 0 0 0 2 2]
+ [0 0 0 0 0 0 0 3]
+ [0 0 0 0 0 2 2 0]
+ [0 0 0 0 0 1 0 1]
+ [0 0 0 0 1 0 5 3]
+ [0 0 0 0 0 1 0 1]
+ [0 0 0 0 0 1 3 1]
+ [0 0 0 0 0 0 1 4]]
+start -> 2021-10-13 06:14:32
+Shape checking X_test : (35, 4, 4)
+Shape checking X_train : (140, 4, 4)
+Model Test loss -> 1.9507825374603271, Model Test accuracy -> 0.2857142984867096
+finish -> 2021-10-13 06:14:39
+Confusion Matrix -> 
+[[1 0 0 0 0 0 2 2]
+ [0 0 0 0 0 0 0 3]
+ [0 0 0 0 0 2 2 0]
+ [0 0 0 0 0 1 0 1]
+ [0 0 0 0 1 0 5 3]
+ [0 0 0 0 0 1 0 1]
+ [0 0 0 0 0 1 3 1]
+ [0 0 0 0 0 0 1 4]]
+start -> 2021-10-13 06:15:58
+Shape checking X_test : (35, 4, 4)
+Shape checking X_train : (140, 4, 4)
+Model Test loss -> 2.058405637741089, Model Test accuracy -> 0.2571428716182709
+finish -> 2021-10-13 06:16:05
+Confusion Matrix -> 
+[[0 0 0 0 5 0 0 0]
+ [0 0 0 0 3 0 0 0]
+ [0 0 0 0 4 0 0 0]
+ [0 0 0 0 2 0 0 0]
+ [0 0 0 0 9 0 0 0]
+ [0 0 0 0 2 0 0 0]
+ [0 0 0 0 5 0 0 0]
+ [0 0 0 0 5 0 0 0]]
+start -> 2021-10-13 06:16:36
+Shape checking X_test : (35, 4, 4)
+Shape checking X_train : (140, 4, 4)
+Model Test loss -> 1.9507825374603271, Model Test accuracy -> 0.2857142984867096
+finish -> 2021-10-13 06:16:43
+Confusion Matrix -> 
+[[1 0 0 0 0 0 2 2]
+ [0 0 0 0 0 0 0 3]
+ [0 0 0 0 0 2 2 0]
+ [0 0 0 0 0 1 0 1]
+ [0 0 0 0 1 0 5 3]
+ [0 0 0 0 0 1 0 1]
+ [0 0 0 0 0 1 3 1]
+ [0 0 0 0 0 0 1 4]]
+start -> 2021-10-13 06:21:20
+Shape checking X_test : (35, 4, 4)
+Shape checking X_train : (140, 4, 4)
+Model Test loss -> 1.9840829372406006, Model Test accuracy -> 0.2857142984867096
+finish -> 2021-10-13 06:21:27
+Confusion Matrix -> 
+[[0 0 0 0 2 0 0 3]
+ [0 0 0 0 1 0 0 2]
+ [0 0 0 0 4 0 0 0]
+ [0 0 0 0 1 0 0 1]
+ [0 0 0 0 6 0 1 2]
+ [0 0 0 0 0 0 0 2]
+ [0 0 0 0 2 1 0 2]
+ [0 0 0 0 1 0 0 4]]
+start -> 2021-10-13 07:07:22
+Shape checking X_test : (7, 20, 4)
+Shape checking X_train : (25, 20, 4)
+Model Test loss -> 1.4241504669189453, Model Test accuracy -> 0.2857142984867096
+finish -> 2021-10-13 07:07:28
+Confusion Matrix -> 
+[[0 0 1 0]
+ [0 1 2 0]
+ [0 1 0 1]
+ [0 0 0 1]]
+start -> 2021-10-13 07:23:57
+Shape checking X_test : (6, 19, 3)
+Shape checking X_train : (24, 19, 3)
+Model Test loss -> 1.4567216634750366, Model Test accuracy -> 0.3333333432674408
+finish -> 2021-10-13 07:24:02
+Confusion Matrix -> 
+[[0 0 1 0]
+ [0 1 1 1]
+ [0 1 1 0]
+ [0 0 0 0]]
+start -> 2021-10-13 07:26:02
+Shape checking X_test : (6, 19, 3)
+Shape checking X_train : (24, 19, 3)
+Model Test loss -> 1.4860690832138062, Model Test accuracy -> 0.1666666716337204
+finish -> 2021-10-13 07:26:07
+Confusion Matrix -> 
+[[0 0 1 0]
+ [0 0 2 1]
+ [0 0 1 1]
+ [0 0 0 0]]
+start -> 2021-10-13 07:26:55
+Shape checking X_test : (6, 19, 3)
+Shape checking X_train : (24, 19, 3)
+Model Test loss -> 1.4567197561264038, Model Test accuracy -> 0.3333333432674408
+finish -> 2021-10-13 07:27:00
+Confusion Matrix -> 
+[[0 0 1 0]
+ [0 1 1 1]
+ [0 1 1 0]
+ [0 0 0 0]]
+start -> 2021-10-13 07:28:20
+Shape checking X_test : (6, 19, 3)
+Shape checking X_train : (24, 19, 3)
+Model Test loss -> 1.4567197561264038, Model Test accuracy -> 0.3333333432674408
+finish -> 2021-10-13 07:28:25
+Confusion Matrix -> 
+[[0 0 1 0]
+ [0 1 1 1]
+ [0 1 1 0]
+ [0 0 0 0]]
+start -> 2021-10-13 07:28:41
+Shape checking X_test : (6, 19, 3)
+Shape checking X_train : (24, 19, 3)
+Model Test loss -> 1.6238136291503906, Model Test accuracy -> 0.0
+finish -> 2021-10-13 07:28:46
+Confusion Matrix -> 
+[[0 0 0 1]
+ [1 0 0 2]
+ [1 0 0 1]
+ [0 0 0 0]]
+start -> 2021-10-13 07:29:17
+Shape checking X_test : (6, 19, 3)
+Shape checking X_train : (24, 19, 3)
+Model Test loss -> 2.980573892593384, Model Test accuracy -> 0.3333333432674408
+finish -> 2021-10-13 07:29:20
+Confusion Matrix -> 
+[[0 0 1]
+ [0 0 3]
+ [0 0 2]]
+start -> 2021-10-13 07:29:56
+Shape checking X_test : (6, 19, 3)
+Shape checking X_train : (24, 19, 3)
+Model Test loss -> 2.980573892593384, Model Test accuracy -> 0.3333333432674408
+finish -> 2021-10-13 07:29:59
+Confusion Matrix -> 
+[[0 0 1]
+ [0 0 3]
+ [0 0 2]]
+start -> 2021-10-13 07:31:04
+Shape checking X_test : (6, 19, 3)
+Shape checking X_train : (24, 19, 3)
+Model Test loss -> 1.4567197561264038, Model Test accuracy -> 0.3333333432674408
+finish -> 2021-10-13 07:31:09
+Confusion Matrix -> 
+[[0 0 1 0]
+ [0 1 1 1]
+ [0 1 1 0]
+ [0 0 0 0]]
+start -> 2021-10-13 07:47:41
+Shape checking X_test : (6, 19, 3)
+Shape checking X_train : (24, 19, 3)
+Model Test loss -> 1.469070553779602, Model Test accuracy -> 0.1666666716337204
+finish -> 2021-10-13 07:47:46
+Confusion Matrix -> 
+[[0 0 0 1]
+ [0 1 0 2]
+ [0 0 0 2]
+ [0 0 0 0]]
+start -> 2021-10-13 07:48:02
+Shape checking X_test : (6, 19, 3)
+Shape checking X_train : (24, 19, 3)
+Model Test loss -> 1.4064127206802368, Model Test accuracy -> 0.1666666716337204
+finish -> 2021-10-13 07:48:07
+Confusion Matrix -> 
+[[0 0 1 0]
+ [0 0 2 1]
+ [0 0 1 1]
+ [0 0 0 0]]
+start -> 2021-10-13 07:48:23
+Shape checking X_test : (6, 19, 3)
+Shape checking X_train : (24, 19, 3)
+Model Test loss -> 1.4567197561264038, Model Test accuracy -> 0.3333333432674408
+finish -> 2021-10-13 07:48:28
+Confusion Matrix -> 
+[[0 0 1 0]
+ [0 1 1 1]
+ [0 1 1 0]
+ [0 0 0 0]]
+start -> 2021-10-13 11:13:25
+Shape checking X_test : (6, 19, 3)
+Shape checking X_train : (24, 19, 3)
+Model Test loss -> 1.4567197561264038, Model Test accuracy -> 0.3333333432674408
+finish -> 2021-10-13 11:13:31
+Confusion Matrix -> 
+[[0 0 1 0]
+ [0 1 1 1]
+ [0 1 1 0]
+ [0 0 0 0]]
+start -> 2021-10-13 11:14:49
+Shape checking X_test : (7, 20, 4)
+Shape checking X_train : (25, 20, 4)
+Model Test loss -> 1.5043408870697021, Model Test accuracy -> 0.5714285969734192
+finish -> 2021-10-13 11:14:55
+Confusion Matrix -> 
+[[1 0 0 0]
+ [0 2 1 0]
+ [0 1 1 0]
+ [0 0 1 0]]
+start -> 2021-10-13 18:01:12
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.5875728130340576, Model Test accuracy -> 0.42105263471603394
+finish -> 2021-10-13 18:01:24
+Confusion Matrix -> 
+[[1 0 1 0 0]
+ [0 2 0 0 5]
+ [2 4 1 1 3]
+ [0 2 0 5 0]
+ [1 1 0 2 7]]
+start -> 2021-10-13 18:02:08
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.6185240745544434, Model Test accuracy -> 0.3947368562221527
+finish -> 2021-10-13 18:02:18
+Confusion Matrix -> 
+[[1 1 0 0 0]
+ [0 5 0 0 2]
+ [3 4 0 0 4]
+ [1 3 0 3 0]
+ [1 2 0 2 6]]
+start -> 2021-10-13 18:07:37
+Shape checking X_test : (38, 9, 3)
+Shape checking X_train : (152, 9, 3)
+Model Test loss -> 1.524206519126892, Model Test accuracy -> 0.34210526943206787
+finish -> 2021-10-13 18:07:46
+Confusion Matrix -> 
+[[ 0  2  0  0  0]
+ [ 0  2  0  0  5]
+ [ 0  6  0  1  4]
+ [ 0  5  0  1  1]
+ [ 0  1  0  0 10]]
+start -> 2021-10-13 18:08:23
+Shape checking X_test : (38, 9, 3)
+Shape checking X_train : (152, 9, 3)
+Model Test loss -> 1.5935277938842773, Model Test accuracy -> 0.3684210479259491
+finish -> 2021-10-13 18:08:32
+Confusion Matrix -> 
+[[ 0  1  0  0  1]
+ [ 0  3  0  0  4]
+ [ 0  8  0  1  2]
+ [ 0  5  0  0  2]
+ [ 0  0  0  0 11]]
+start -> 2021-10-13 18:09:27
+Shape checking X_test : (38, 9, 3)
+Shape checking X_train : (152, 9, 3)
+Model Test loss -> 1.7806915044784546, Model Test accuracy -> 0.31578946113586426
+finish -> 2021-10-13 18:09:39
+Confusion Matrix -> 
+[[ 0  1  0  0  1]
+ [ 0  0  2  1  4]
+ [ 0  6  0  0  5]
+ [ 0  3  1  1  2]
+ [ 0  0  0  0 11]]
+start -> 2021-10-13 18:10:25
+Shape checking X_test : (38, 9, 3)
+Shape checking X_train : (152, 9, 3)
+Model Test loss -> 1.5239169597625732, Model Test accuracy -> 0.34210526943206787
+finish -> 2021-10-13 18:10:32
+Confusion Matrix -> 
+[[ 0  2  0  0  0]
+ [ 0  2  0  0  5]
+ [ 0  6  0  1  4]
+ [ 0  5  0  1  1]
+ [ 0  1  0  0 10]]
+start -> 2021-10-13 18:12:12
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.4908376932144165, Model Test accuracy -> 0.42105263471603394
+finish -> 2021-10-13 18:12:22
+Confusion Matrix -> 
+[[1 0 1 0 0]
+ [1 3 0 0 3]
+ [4 3 1 1 2]
+ [1 0 0 4 2]
+ [1 1 0 2 7]]
+start -> 2021-10-13 18:15:05
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.0686284303665161, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-13 18:15:14
+Confusion Matrix -> 
+[[ 0  1  1  0]
+ [ 1  4  0  2]
+ [ 0  3 12  3]
+ [ 0  1  6  4]]
+start -> 2021-10-13 18:16:48
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.7690902948379517, Model Test accuracy -> 0.4736842215061188
+finish -> 2021-10-13 18:17:03
+Confusion Matrix -> 
+[[6 0 1 2]
+ [2 1 2 6]
+ [2 0 4 1]
+ [2 0 2 7]]
+start -> 2021-10-13 18:17:54
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.5425491333007812, Model Test accuracy -> 0.3947368562221527
+finish -> 2021-10-13 18:18:03
+Confusion Matrix -> 
+[[ 3  1  0  5]
+ [ 5  0  0  6]
+ [ 1  1  2  3]
+ [ 1  0  0 10]]
+start -> 2021-10-13 18:20:51
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.4515308141708374, Model Test accuracy -> 0.3947368562221527
+finish -> 2021-10-13 18:21:01
+Confusion Matrix -> 
+[[6 0 1 2]
+ [8 0 1 2]
+ [1 0 1 5]
+ [3 0 0 8]]
+start -> 2021-10-13 18:21:39
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.1668171882629395, Model Test accuracy -> 0.5789473652839661
+finish -> 2021-10-13 18:21:48
+Confusion Matrix -> 
+[[ 0  0  1  1]
+ [ 0  4  0  3]
+ [ 0  2 10  6]
+ [ 0  1  2  8]]
+start -> 2021-10-13 18:33:10
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.1083186864852905, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-13 18:33:19
+Confusion Matrix -> 
+[[ 0  0  2  0]
+ [ 0  2  0  5]
+ [ 0  0 13  5]
+ [ 0  0  6  5]]
+start -> 2021-10-13 18:33:56
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.1241748332977295, Model Test accuracy -> 0.5789473652839661
+finish -> 2021-10-13 18:34:03
+Confusion Matrix -> 
+[[ 0  0  2  0]
+ [ 0  4  1  2]
+ [ 0  1 13  4]
+ [ 0  1  5  5]]
+start -> 2021-10-13 18:38:40
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.1588267087936401, Model Test accuracy -> 0.5526315569877625
+finish -> 2021-10-13 18:38:43
+Confusion Matrix -> 
+[[ 0  1  1  0]
+ [ 0  4  1  2]
+ [ 0  2 11  5]
+ [ 0  2  3  6]]
+start -> 2021-10-13 18:39:14
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.1451456546783447, Model Test accuracy -> 0.6052631735801697
+finish -> 2021-10-13 18:39:17
+Confusion Matrix -> 
+[[ 0  1  1  0]
+ [ 0  2  0  5]
+ [ 0  1 13  4]
+ [ 0  1  2  8]]
+start -> 2021-10-13 18:39:40
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.2363035678863525, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-13 18:39:45
+Confusion Matrix -> 
+[[ 1  1  0  0]
+ [ 0  4  0  3]
+ [ 0  6 10  2]
+ [ 0  5  1  5]]
+start -> 2021-10-13 18:40:11
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.1591854095458984, Model Test accuracy -> 0.4736842215061188
+finish -> 2021-10-13 18:40:16
+Confusion Matrix -> 
+[[ 0  0  2  0]
+ [ 0  1  1  5]
+ [ 0  3 10  5]
+ [ 0  2  2  7]]
+start -> 2021-10-13 18:40:48
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.1451456546783447, Model Test accuracy -> 0.6052631735801697
+finish -> 2021-10-13 18:40:51
+Confusion Matrix -> 
+[[ 0  1  1  0]
+ [ 0  2  0  5]
+ [ 0  1 13  4]
+ [ 0  1  2  8]]
+start -> 2021-10-13 18:42:06
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.2193104028701782, Model Test accuracy -> 0.3947368562221527
+finish -> 2021-10-13 18:42:09
+Confusion Matrix -> 
+[[0 0 2 0]
+ [0 0 7 0]
+ [0 0 9 9]
+ [0 0 5 6]]
+start -> 2021-10-13 18:42:37
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.209327220916748, Model Test accuracy -> 0.4736842215061188
+finish -> 2021-10-13 18:42:44
+Confusion Matrix -> 
+[[ 0  0  2  0]
+ [ 0  0  7  0]
+ [ 0  0 18  0]
+ [ 0  0 11  0]]
+start -> 2021-10-13 18:44:24
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.209327220916748, Model Test accuracy -> 0.4736842215061188
+finish -> 2021-10-13 18:44:31
+Confusion Matrix -> 
+[[ 0  0  2  0]
+ [ 0  0  7  0]
+ [ 0  0 18  0]
+ [ 0  0 11  0]]
+start -> 2021-10-13 18:44:55
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.1516366004943848, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-13 18:45:04
+Confusion Matrix -> 
+[[0 2 0 0]
+ [0 7 0 0]
+ [0 4 7 7]
+ [0 3 2 6]]
+start -> 2021-10-13 18:46:56
+Shape checking X_test : (36, 10, 4)
+Shape checking X_train : (144, 10, 4)
+Model Test loss -> 1.4072301387786865, Model Test accuracy -> 0.3611111044883728
+finish -> 2021-10-13 18:47:01
+Confusion Matrix -> 
+[[1 2 1 5]
+ [1 3 0 0]
+ [4 0 1 5]
+ [4 0 1 8]]
+start -> 2021-10-13 18:48:32
+Shape checking X_test : (36, 10, 4)
+Shape checking X_train : (144, 10, 4)
+Model Test loss -> 1.1945875883102417, Model Test accuracy -> 0.4166666567325592
+finish -> 2021-10-13 18:48:39
+Confusion Matrix -> 
+[[2 3 4]
+ [1 8 5]
+ [2 6 5]]
+start -> 2021-10-13 18:49:42
+Shape checking X_test : (36, 10, 4)
+Shape checking X_train : (144, 10, 4)
+Model Test loss -> 1.1945875883102417, Model Test accuracy -> 0.4166666567325592
+finish -> 2021-10-13 18:49:48
+Confusion Matrix -> 
+[[2 3 4]
+ [1 8 5]
+ [2 6 5]]
+start -> 2021-10-13 18:50:28
+Shape checking X_test : (36, 10, 4)
+Shape checking X_train : (144, 10, 4)
+Model Test loss -> 1.118403434753418, Model Test accuracy -> 0.4444444477558136
+finish -> 2021-10-13 18:50:37
+Confusion Matrix -> 
+[[3 2 4]
+ [1 8 5]
+ [2 6 5]]
+start -> 2021-10-13 18:51:34
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.4909600019454956, Model Test accuracy -> 0.44736841320991516
+finish -> 2021-10-13 18:51:45
+Confusion Matrix -> 
+[[6 0 2 1]
+ [7 0 1 3]
+ [0 1 4 2]
+ [1 1 2 7]]
+start -> 2021-10-13 18:54:09
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.4909600019454956, Model Test accuracy -> 0.44736841320991516
+finish -> 2021-10-13 18:54:20
+Confusion Matrix -> 
+[[6 0 2 1]
+ [7 0 1 3]
+ [0 1 4 2]
+ [1 1 2 7]]
+start -> 2021-10-13 19:04:13
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 0.9867919087409973, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-13 19:04:23
+Confusion Matrix -> 
+[[ 4  3  2]
+ [ 3 10  5]
+ [ 1  4  6]]
+start -> 2021-10-13 19:16:11
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.4909600019454956, Model Test accuracy -> 0.44736841320991516
+finish -> 2021-10-13 19:16:21
+Confusion Matrix -> 
+[[6 0 2 1]
+ [7 0 1 3]
+ [0 1 4 2]
+ [1 1 2 7]]
+start -> 2021-10-13 19:26:38
+Shape checking X_test : (32, 9, 3)
+Shape checking X_train : (125, 9, 3)
+Model Test loss -> 1.3590118885040283, Model Test accuracy -> 0.40625
+finish -> 2021-10-13 19:26:45
+Confusion Matrix -> 
+[[7 1 1 3]
+ [1 2 1 0]
+ [3 2 2 3]
+ [1 1 2 2]]
+start -> 2021-10-13 19:27:40
+Shape checking X_test : (32, 9, 3)
+Shape checking X_train : (125, 9, 3)
+Model Test loss -> 1.3666741847991943, Model Test accuracy -> 0.34375
+finish -> 2021-10-13 19:27:47
+Confusion Matrix -> 
+[[5 2 2 3]
+ [2 2 0 0]
+ [3 2 1 4]
+ [0 2 1 3]]
+start -> 2021-10-13 19:28:20
+Shape checking X_test : (32, 9, 3)
+Shape checking X_train : (125, 9, 3)
+Model Test loss -> 1.4412168264389038, Model Test accuracy -> 0.3125
+finish -> 2021-10-13 19:28:24
+Confusion Matrix -> 
+[[7 0 1 4]
+ [3 0 1 0]
+ [5 0 0 5]
+ [2 1 0 3]]
+start -> 2021-10-13 19:28:57
+Shape checking X_test : (32, 9, 3)
+Shape checking X_train : (125, 9, 3)
+Model Test loss -> 1.3590118885040283, Model Test accuracy -> 0.40625
+finish -> 2021-10-13 19:29:03
+Confusion Matrix -> 
+[[7 1 1 3]
+ [1 2 1 0]
+ [3 2 2 3]
+ [1 1 2 2]]
+start -> 2021-10-13 19:30:06
+Shape checking X_test : (32, 9, 3)
+Shape checking X_train : (125, 9, 3)
+Model Test loss -> 1.3491771221160889, Model Test accuracy -> 0.40625
+finish -> 2021-10-13 19:30:12
+Confusion Matrix -> 
+[[7 0 3 2]
+ [1 3 0 0]
+ [4 0 2 4]
+ [2 1 2 1]]
+start -> 2021-10-13 19:30:43
+Shape checking X_test : (32, 9, 3)
+Shape checking X_train : (125, 9, 3)
+Model Test loss -> 1.3688888549804688, Model Test accuracy -> 0.3125
+finish -> 2021-10-13 19:30:50
+Confusion Matrix -> 
+[[4 2 1 5]
+ [2 2 0 0]
+ [4 1 1 4]
+ [1 1 1 3]]
+start -> 2021-10-13 19:33:40
+Shape checking X_test : (23, 9, 3)
+Shape checking X_train : (89, 9, 3)
+Model Test loss -> 1.2238670587539673, Model Test accuracy -> 0.52173912525177
+finish -> 2021-10-13 19:33:47
+Confusion Matrix -> 
+[[7 1 5]
+ [1 0 2]
+ [2 0 5]]
+start -> 2021-10-13 19:34:29
+Shape checking X_test : (23, 9, 3)
+Shape checking X_train : (89, 9, 3)
+Model Test loss -> 1.2238670587539673, Model Test accuracy -> 0.52173912525177
+finish -> 2021-10-13 19:34:36
+Confusion Matrix -> 
+[[7 1 5]
+ [1 0 2]
+ [2 0 5]]
+start -> 2021-10-13 19:41:15
+Shape checking X_test : (36, 9, 3)
+Shape checking X_train : (144, 9, 3)
+Model Test loss -> 1.3076025247573853, Model Test accuracy -> 0.4166666567325592
+finish -> 2021-10-13 19:41:23
+Confusion Matrix -> 
+[[ 4  0  0  5]
+ [ 3  0  0  1]
+ [ 2  0  1  7]
+ [ 3  0  0 10]]
+start -> 2021-10-13 19:43:17
+Shape checking X_test : (24, 9, 3)
+Shape checking X_train : (92, 9, 3)
+Model Test loss -> 1.1763166189193726, Model Test accuracy -> 0.6666666865348816
+finish -> 2021-10-13 19:43:26
+Confusion Matrix -> 
+[[1 4 0]
+ [0 7 2]
+ [1 1 8]]
+start -> 2021-10-13 19:45:23
+Shape checking X_test : (24, 9, 3)
+Shape checking X_train : (92, 9, 3)
+Model Test loss -> 1.1763166189193726, Model Test accuracy -> 0.6666666865348816
+finish -> 2021-10-13 19:45:34
+Confusion Matrix -> 
+[[1 4 0]
+ [0 7 2]
+ [1 1 8]]
+start -> 2021-10-14 00:21:11
+Shape checking X_test : (38, 9, 3)
+Shape checking X_train : (152, 9, 3)
+start -> 2021-10-14 00:21:37
+Shape checking X_test : (38, 9, 3)
+Shape checking X_train : (152, 9, 3)
+Model Test loss -> 3.3875954151153564, Model Test accuracy -> 0.3684210479259491
+finish -> 2021-10-14 00:21:48
+Confusion Matrix -> 
+[[ 1  0  1  0  0]
+ [ 0  2  1  0  4]
+ [ 2  3  0  4  2]
+ [ 0  4  0  1  2]
+ [ 0  1  0  0 10]]
+start -> 2021-10-14 00:33:21
+Shape checking X_test : (38, 9, 2)
+Shape checking X_train : (152, 9, 2)
+Model Test loss -> 1.771002173423767, Model Test accuracy -> 0.31578946113586426
+finish -> 2021-10-14 00:33:29
+Confusion Matrix -> 
+[[ 0  1  1  0  0]
+ [ 0  1  0  0  6]
+ [ 0  9  0  0  2]
+ [ 0  5  0  0  2]
+ [ 0  0  0  0 11]]
+start -> 2021-10-14 00:37:32
+Shape checking X_test : (38, 9, 3)
+Shape checking X_train : (152, 9, 3)
+Model Test loss -> 2.206244945526123, Model Test accuracy -> 0.3947368562221527
+finish -> 2021-10-14 00:37:44
+Confusion Matrix -> 
+[[ 0  0  0  1  1]
+ [ 0  2  0  0  5]
+ [ 1  1  0  4  5]
+ [ 1  1  0  3  2]
+ [ 0  0  0  1 10]]
+start -> 2021-10-14 00:40:16
+Shape checking X_test : (36, 9, 3)
+Shape checking X_train : (144, 9, 3)
+Model Test loss -> 1.3076047897338867, Model Test accuracy -> 0.4166666567325592
+finish -> 2021-10-14 00:40:24
+Confusion Matrix -> 
+[[ 4  0  0  5]
+ [ 3  0  0  1]
+ [ 2  0  1  7]
+ [ 3  0  0 10]]
+start -> 2021-10-14 01:23:28
+Shape checking X_test : (8, 9, 3)
+Shape checking X_train : (30, 9, 3)
+Model Test loss -> 1.3811970949172974, Model Test accuracy -> 0.5
+finish -> 2021-10-14 01:23:33
+Confusion Matrix -> 
+[[4 0 0 0]
+ [2 0 0 0]
+ [1 0 0 0]
+ [1 0 0 0]]
+start -> 2021-10-14 01:24:28
+Shape checking X_test : (8, 9, 3)
+Shape checking X_train : (30, 9, 3)
+Model Test loss -> 1.302566647529602, Model Test accuracy -> 0.625
+finish -> 2021-10-14 01:24:34
+Confusion Matrix -> 
+[[4 0 0 0]
+ [0 0 2 0]
+ [0 0 1 0]
+ [1 0 0 0]]
+start -> 2021-10-14 01:25:12
+Shape checking X_test : (8, 9, 3)
+Shape checking X_train : (30, 9, 3)
+Model Test loss -> 1.302566647529602, Model Test accuracy -> 0.625
+finish -> 2021-10-14 01:25:17
+Confusion Matrix -> 
+[[4 0 0 0]
+ [0 0 2 0]
+ [0 0 1 0]
+ [1 0 0 0]]
+start -> 2021-10-14 01:26:12
+Shape checking X_test : (8, 9, 3)
+Shape checking X_train : (30, 9, 3)
+Model Test loss -> 1.3025624752044678, Model Test accuracy -> 0.625
+finish -> 2021-10-14 01:26:17
+Confusion Matrix -> 
+[[4 0 0 0]
+ [0 0 2 0]
+ [0 0 1 0]
+ [1 0 0 0]]
+start -> 2021-10-14 01:27:48
+Shape checking X_test : (6, 19, 3)
+Shape checking X_train : (24, 19, 3)
+Model Test loss -> 1.4188038110733032, Model Test accuracy -> 0.3333333432674408
+finish -> 2021-10-14 01:27:53
+Confusion Matrix -> 
+[[0 0 1 0]
+ [0 1 1 1]
+ [0 1 1 0]
+ [0 0 0 0]]
+start -> 2021-10-14 01:28:42
+Shape checking X_test : (6, 19, 3)
+Shape checking X_train : (24, 19, 3)
+Model Test loss -> 1.4544671773910522, Model Test accuracy -> 0.3333333432674408
+finish -> 2021-10-14 01:28:47
+Confusion Matrix -> 
+[[0 0 1 0]
+ [0 1 1 1]
+ [0 1 1 0]
+ [0 0 0 0]]
+start -> 2021-10-14 01:30:08
+Shape checking X_test : (7, 20, 4)
+Shape checking X_train : (25, 20, 4)
+Model Test loss -> 1.5862140655517578, Model Test accuracy -> 0.2857142984867096
+finish -> 2021-10-14 01:30:14
+Confusion Matrix -> 
+[[1 0 0 0]
+ [1 1 1 0]
+ [0 2 0 0]
+ [0 0 1 0]]
+start -> 2021-10-14 01:31:27
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.1863443851470947, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-14 01:31:35
+Confusion Matrix -> 
+[[ 0  1  1  0]
+ [ 0  5  0  2]
+ [ 1  2 10  5]
+ [ 0  0  6  5]]
+start -> 2021-10-14 01:32:19
+Shape checking X_test : (8, 9, 3)
+Shape checking X_train : (30, 9, 3)
+Model Test loss -> 1.344302773475647, Model Test accuracy -> 0.5
+finish -> 2021-10-14 01:32:24
+Confusion Matrix -> 
+[[3 1 0 0]
+ [0 0 2 0]
+ [0 0 1 0]
+ [1 0 0 0]]
+start -> 2021-10-14 01:37:51
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.1863443851470947, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-14 01:38:00
+Confusion Matrix -> 
+[[ 0  1  1  0]
+ [ 0  5  0  2]
+ [ 1  2 10  5]
+ [ 0  0  6  5]]
+start -> 2021-10-14 01:38:41
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.141588568687439, Model Test accuracy -> 0.5
+finish -> 2021-10-14 01:38:49
+Confusion Matrix -> 
+[[0 0 2 0]
+ [0 1 1 5]
+ [0 0 9 9]
+ [0 1 1 9]]
+start -> 2021-10-14 01:39:08
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.1975315809249878, Model Test accuracy -> 0.5526315569877625
+finish -> 2021-10-14 01:39:16
+Confusion Matrix -> 
+[[0 1 1 0]
+ [0 4 0 3]
+ [0 4 8 6]
+ [0 0 2 9]]
+start -> 2021-10-14 01:40:37
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.2471401691436768, Model Test accuracy -> 0.5526315569877625
+finish -> 2021-10-14 01:40:43
+Confusion Matrix -> 
+[[ 0  1  1  0]
+ [ 0  2  1  4]
+ [ 0  3 11  4]
+ [ 0  0  3  8]]
+start -> 2021-10-14 01:42:34
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.0953267812728882, Model Test accuracy -> 0.5526315569877625
+finish -> 2021-10-14 01:42:43
+Confusion Matrix -> 
+[[ 0  1  1  0]
+ [ 0  3  1  3]
+ [ 0  5 10  3]
+ [ 0  0  3  8]]
+start -> 2021-10-14 01:44:06
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.7261406183242798, Model Test accuracy -> 0.3947368562221527
+finish -> 2021-10-14 01:44:20
+Confusion Matrix -> 
+[[0 1 0 1 0]
+ [0 5 0 0 2]
+ [0 2 0 1 8]
+ [0 3 0 3 1]
+ [0 2 1 1 7]]
+start -> 2021-10-14 01:45:20
+Shape checking X_test : (35, 10, 4)
+Shape checking X_train : (140, 10, 4)
+Model Test loss -> 1.4157955646514893, Model Test accuracy -> 0.4285714328289032
+finish -> 2021-10-14 01:45:30
+Confusion Matrix -> 
+[[5 3 1 1]
+ [1 9 0 3]
+ [1 3 0 0]
+ [4 2 1 1]]
+start -> 2021-10-14 01:45:49
+Shape checking X_test : (35, 10, 4)
+Shape checking X_train : (140, 10, 4)
+Model Test loss -> 1.6237696409225464, Model Test accuracy -> 0.4571428596973419
+finish -> 2021-10-14 01:45:56
+Confusion Matrix -> 
+[[5 2 0 3]
+ [1 7 3 2]
+ [0 2 0 2]
+ [2 1 1 4]]
+start -> 2021-10-14 01:46:15
+Shape checking X_test : (35, 10, 4)
+Shape checking X_train : (140, 10, 4)
+Model Test loss -> 1.4299333095550537, Model Test accuracy -> 0.48571428656578064
+finish -> 2021-10-14 01:46:25
+Confusion Matrix -> 
+[[6 2 0 2]
+ [2 8 0 3]
+ [1 2 0 1]
+ [4 1 0 3]]
+start -> 2021-10-14 01:47:35
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.1340302228927612, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-14 01:47:43
+Confusion Matrix -> 
+[[ 0  0  2  0]
+ [ 0  1  1  5]
+ [ 0  2 11  5]
+ [ 0  0  3  8]]
+start -> 2021-10-14 01:48:09
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.2471401691436768, Model Test accuracy -> 0.5526315569877625
+finish -> 2021-10-14 01:48:16
+Confusion Matrix -> 
+[[ 0  1  1  0]
+ [ 0  2  1  4]
+ [ 0  3 11  4]
+ [ 0  0  3  8]]
+start -> 2021-10-14 01:49:13
+Shape checking X_test : (36, 10, 4)
+Shape checking X_train : (144, 10, 4)
+Model Test loss -> 1.0392093658447266, Model Test accuracy -> 0.5
+finish -> 2021-10-14 01:49:17
+Confusion Matrix -> 
+[[ 2  3  4]
+ [ 2  6  6]
+ [ 1  2 10]]
+start -> 2021-10-14 01:49:51
+Shape checking X_test : (36, 10, 4)
+Shape checking X_train : (144, 10, 4)
+start -> 2021-10-14 01:50:15
+Shape checking X_test : (36, 10, 4)
+Shape checking X_train : (144, 10, 4)
+Model Test loss -> 1.190268635749817, Model Test accuracy -> 0.4722222089767456
+finish -> 2021-10-14 01:50:25
+Confusion Matrix -> 
+[[4 2 3]
+ [4 7 3]
+ [2 5 6]]
+start -> 2021-10-14 01:52:56
+Shape checking X_test : (35, 10, 4)
+Shape checking X_train : (140, 10, 4)
+start -> 2021-10-14 01:53:34
+Shape checking X_test : (35, 10, 4)
+Shape checking X_train : (140, 10, 4)
+Model Test loss -> 1.353177785873413, Model Test accuracy -> 0.48571428656578064
+finish -> 2021-10-14 01:53:41
+Confusion Matrix -> 
+[[6 2 1 1]
+ [1 9 0 3]
+ [0 3 0 1]
+ [4 1 1 2]]
+start -> 2021-10-14 01:55:01
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.0368969440460205, Model Test accuracy -> 0.5789473652839661
+finish -> 2021-10-14 01:55:09
+Confusion Matrix -> 
+[[ 0  1  1  0]
+ [ 1  5  0  1]
+ [ 0  2 12  4]
+ [ 0  1  5  5]]
+start -> 2021-10-14 01:56:29
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.195493221282959, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-14 01:56:33
+Confusion Matrix -> 
+[[ 0  1  1  0]
+ [ 0  4  0  3]
+ [ 0  1 12  5]
+ [ 0  2  5  4]]
+start -> 2021-10-14 01:56:50
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.100142002105713, Model Test accuracy -> 0.5526315569877625
+finish -> 2021-10-14 01:56:56
+Confusion Matrix -> 
+[[ 0  0  2  0]
+ [ 0  3  0  4]
+ [ 0  0 12  6]
+ [ 0  1  4  6]]
+start -> 2021-10-14 01:57:13
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.100142002105713, Model Test accuracy -> 0.5526315569877625
+finish -> 2021-10-14 01:57:18
+Confusion Matrix -> 
+[[ 0  0  2  0]
+ [ 0  3  0  4]
+ [ 0  0 12  6]
+ [ 0  1  4  6]]
+start -> 2021-10-14 01:57:39
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.195493221282959, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-14 01:57:44
+Confusion Matrix -> 
+[[ 0  1  1  0]
+ [ 0  4  0  3]
+ [ 0  1 12  5]
+ [ 0  2  5  4]]
+start -> 2021-10-14 01:59:01
+Shape checking X_test : (38, 10, 4)
+Shape checking X_train : (152, 10, 4)
+Model Test loss -> 1.0368969440460205, Model Test accuracy -> 0.5789473652839661
+finish -> 2021-10-14 01:59:09
+Confusion Matrix -> 
+[[ 0  1  1  0]
+ [ 1  5  0  1]
+ [ 0  2 12  4]
+ [ 0  1  5  5]]
+start -> 2021-10-14 02:26:38
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 2.4289302825927734, Model Test accuracy -> 0.4736842215061188
+finish -> 2021-10-14 02:26:48
+Confusion Matrix -> 
+[[1 0 1 0]
+ [2 1 0 2]
+ [0 0 3 1]
+ [0 1 3 4]]
+start -> 2021-10-14 02:27:23
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.631502628326416, Model Test accuracy -> 0.5789473652839661
+finish -> 2021-10-14 02:27:26
+Confusion Matrix -> 
+[[1 0 1 0]
+ [0 1 0 4]
+ [0 0 3 1]
+ [0 1 1 6]]
+start -> 2021-10-14 02:27:59
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.6592788696289062, Model Test accuracy -> 0.4736842215061188
+finish -> 2021-10-14 02:28:03
+Confusion Matrix -> 
+[[0 0 1 1]
+ [0 1 1 3]
+ [0 0 3 1]
+ [0 0 3 5]]
+start -> 2021-10-14 02:28:18
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.2068533897399902, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-14 02:28:21
+Confusion Matrix -> 
+[[0 0 1 1]
+ [0 2 0 3]
+ [0 0 3 1]
+ [0 1 2 5]]
+start -> 2021-10-14 02:28:37
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.631502628326416, Model Test accuracy -> 0.5789473652839661
+finish -> 2021-10-14 02:28:42
+Confusion Matrix -> 
+[[1 0 1 0]
+ [0 1 0 4]
+ [0 0 3 1]
+ [0 1 1 6]]
+start -> 2021-10-14 02:30:08
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.6475932598114014, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-14 02:30:13
+Confusion Matrix -> 
+[[0 0 1 1]
+ [0 2 0 3]
+ [0 0 3 1]
+ [0 0 3 5]]
+start -> 2021-10-14 02:30:45
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.5971567630767822, Model Test accuracy -> 0.6315789222717285
+finish -> 2021-10-14 02:30:48
+Confusion Matrix -> 
+[[1 0 1 0]
+ [0 2 2 1]
+ [0 0 3 1]
+ [0 0 2 6]]
+start -> 2021-10-14 02:31:15
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.5029253959655762, Model Test accuracy -> 0.6315789222717285
+finish -> 2021-10-14 02:31:18
+Confusion Matrix -> 
+[[1 0 1 0]
+ [0 3 1 1]
+ [0 0 3 1]
+ [0 0 3 5]]
+start -> 2021-10-14 02:32:00
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.5872999429702759, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-14 02:32:04
+Confusion Matrix -> 
+[[1 0 1 0]
+ [0 2 0 3]
+ [0 0 3 1]
+ [0 0 4 4]]
+start -> 2021-10-14 02:32:37
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.5166667699813843, Model Test accuracy -> 0.5789473652839661
+finish -> 2021-10-14 02:32:41
+Confusion Matrix -> 
+[[1 0 1 0]
+ [0 3 1 1]
+ [0 0 3 1]
+ [0 0 4 4]]
+start -> 2021-10-14 02:33:06
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.8938727378845215, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-14 02:33:14
+Confusion Matrix -> 
+[[1 0 1 0]
+ [1 2 0 2]
+ [0 0 3 1]
+ [0 0 4 4]]
+start -> 2021-10-14 02:33:41
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.5029253959655762, Model Test accuracy -> 0.6315789222717285
+finish -> 2021-10-14 02:33:44
+Confusion Matrix -> 
+[[1 0 1 0]
+ [0 3 1 1]
+ [0 0 3 1]
+ [0 0 3 5]]
+start -> 2021-10-14 02:34:07
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.9262592792510986, Model Test accuracy -> 0.5789473652839661
+finish -> 2021-10-14 02:34:10
+Confusion Matrix -> 
+[[1 0 1 0]
+ [0 2 0 3]
+ [0 0 3 1]
+ [0 0 3 5]]
+start -> 2021-10-14 02:34:26
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 2.2872273921966553, Model Test accuracy -> 0.5789473652839661
+finish -> 2021-10-14 02:34:30
+Confusion Matrix -> 
+[[1 0 1 0]
+ [0 1 2 2]
+ [0 0 3 1]
+ [0 0 2 6]]
+start -> 2021-10-14 02:34:45
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.5284572839736938, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-14 02:34:49
+Confusion Matrix -> 
+[[0 0 1 1]
+ [0 3 0 2]
+ [0 0 3 1]
+ [0 1 3 4]]
+start -> 2021-10-14 02:35:07
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.5029253959655762, Model Test accuracy -> 0.6315789222717285
+finish -> 2021-10-14 02:35:10
+Confusion Matrix -> 
+[[1 0 1 0]
+ [0 3 1 1]
+ [0 0 3 1]
+ [0 0 3 5]]
+start -> 2021-10-14 02:35:50
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.469616174697876, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-14 02:35:53
+Confusion Matrix -> 
+[[0 1 1 0]
+ [0 2 0 3]
+ [0 0 3 1]
+ [0 0 3 5]]
+start -> 2021-10-14 02:36:12
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.8531018495559692, Model Test accuracy -> 0.5263158082962036
+finish -> 2021-10-14 02:36:16
+Confusion Matrix -> 
+[[0 0 1 1]
+ [0 3 0 2]
+ [0 0 3 1]
+ [0 0 4 4]]
+start -> 2021-10-14 02:36:38
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.8527591228485107, Model Test accuracy -> 0.5789473652839661
+finish -> 2021-10-14 02:36:42
+Confusion Matrix -> 
+[[0 0 1 1]
+ [0 2 0 3]
+ [0 0 3 1]
+ [0 0 2 6]]
+start -> 2021-10-14 02:36:58
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.5029253959655762, Model Test accuracy -> 0.6315789222717285
+finish -> 2021-10-14 02:37:02
+Confusion Matrix -> 
+[[1 0 1 0]
+ [0 3 1 1]
+ [0 0 3 1]
+ [0 0 3 5]]
+start -> 2021-10-14 02:37:16
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> nan, Model Test accuracy -> 0.10526315867900848
+finish -> 2021-10-14 02:37:19
+Confusion Matrix -> 
+[[2 0 0 0]
+ [5 0 0 0]
+ [4 0 0 0]
+ [8 0 0 0]]
+start -> 2021-10-14 02:37:40
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.5029253959655762, Model Test accuracy -> 0.6315789222717285
+finish -> 2021-10-14 02:37:45
+Confusion Matrix -> 
+[[1 0 1 0]
+ [0 3 1 1]
+ [0 0 3 1]
+ [0 0 3 5]]
+start -> 2021-10-14 02:38:11
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 2.3708419799804688, Model Test accuracy -> 0.5789473652839661
+finish -> 2021-10-14 02:38:15
+Confusion Matrix -> 
+[[1 0 1 0]
+ [0 1 1 3]
+ [0 0 3 1]
+ [0 0 2 6]]
+start -> 2021-10-14 02:38:41
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.3739910125732422, Model Test accuracy -> 0.42105263471603394
+finish -> 2021-10-14 02:38:44
+Confusion Matrix -> 
+[[1 0 1 0]
+ [1 2 0 2]
+ [1 0 2 1]
+ [1 0 4 3]]
+start -> 2021-10-14 02:39:06
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.41209077835083, Model Test accuracy -> 0.4736842215061188
+finish -> 2021-10-14 02:39:09
+Confusion Matrix -> 
+[[0 0 1 1]
+ [0 1 2 2]
+ [0 0 3 1]
+ [0 0 3 5]]
+start -> 2021-10-14 02:39:29
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.5029253959655762, Model Test accuracy -> 0.6315789222717285
+finish -> 2021-10-14 02:39:33
+Confusion Matrix -> 
+[[1 0 1 0]
+ [0 3 1 1]
+ [0 0 3 1]
+ [0 0 3 5]]
+start -> 2021-10-14 02:39:54
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.6538165807724, Model Test accuracy -> 0.5789473652839661
+finish -> 2021-10-14 02:39:58
+Confusion Matrix -> 
+[[0 0 1 1]
+ [0 2 0 3]
+ [0 0 3 1]
+ [0 0 2 6]]
+start -> 2021-10-14 02:40:14
+Shape checking X_test : (19, 20, 4)
+Shape checking X_train : (76, 20, 4)
+Model Test loss -> 1.5029253959655762, Model Test accuracy -> 0.6315789222717285
+finish -> 2021-10-14 02:40:18
+Confusion Matrix -> 
+[[1 0 1 0]
+ [0 3 1 1]
+ [0 0 3 1]
+ [0 0 3 5]]

@@ -1,0 +1,19 @@
+Subject shl_steth_dat_fft at 2021-09-24 11:11:49 
+Win Length: 4000 
+Hold out split: 70% 
+Subject shl_steth_dat_fft at 2021-09-24 11:12:48 
+Win Length: 4000 
+Hold out split: 70% 
+Test score: 0.0389285683631897 , Test accuracy: 0.9827442765235901 
+Confusion Matrix: 
+[[571   0   0   0   0   0   0   0   0   0]
+ [  0 493   0   0   0   0   0   0   0   0]
+ [  0   0 481   0   0   0   0   0   0   0]
+ [  0   0   0 465   0   0   0   0   0   0]
+ [  0   0   0   0 503   0   0   0   0   0]
+ [  0   0   0   1  24 360   0   0   0   0]
+ [  0   0   0   0   0   0 493   0   0   0]
+ [ 56   0   0   0   0   2   0 432   0   0]
+ [  0   0   0   0   0   0   0   0 475   0]
+ [  0   0   0   0   0   0   0   0   0 454]] 
+End of trial 

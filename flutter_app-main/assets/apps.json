@@ -1,0 +1,15 @@
+[
+    {
+        "project_name":"FlexTech",
+        "devices":{
+            "FlexTechEMG":4, 
+            "FlexTechIMU":2
+        }
+    },
+    {
+        "project_name":"CHOA Patch",
+        "devices":{
+            "CHOA Patch":1
+        }
+    }
+]

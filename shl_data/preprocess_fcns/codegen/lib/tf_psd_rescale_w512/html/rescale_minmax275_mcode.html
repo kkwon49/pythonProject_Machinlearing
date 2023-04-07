@@ -1,0 +1,21 @@
+<!-- saved from url=(0014)about:internet -->
+<html>
+<body>
+<script src="resources/eml_report_loadable_data.js"></script>
+<pre class="code">
+<span class="srcline"><span class="lineno"><a href="64,1" id="srcline1"> 1</a></span><span class="line"><span class="keyword">function</span> [ <span class="var type1" id="S2T10U3">Y</span> ] = rescale_minmax( <span class="var type1" id="S3T10U6">X</span>, <span class="var type1" id="S4T4U7">min_bound</span>, <span class="var type1" id="S5T4U8">max_bound</span> )</span></span>
+<span class="srcline"><span class="lineno"><a href="64,2" id="srcline2"> 2</a></span><span class="line"><span class="keyword">if</span> (nargin == 1)</span></span>
+<span class="srcline"><span class="lineno"><a href="64,3" id="srcline3"> 3</a></span><span class="line">    <span class="mxinfo " id="T4:U5"><span class="var type1" id="S4T4U18">min_bound</span> = <span class="mxinfo " id="T4:U7">0</span></span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="64,4" id="srcline4"> 4</a></span><span class="line">    <span class="mxinfo " id="T4:U8"><span class="var type1" id="S5T4U22">max_bound</span> = <span class="mxinfo " id="T4:U10">1</span></span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="64,5" id="srcline5"> 5</a></span><span class="line"><span class="keyword">end</span></span></span>
+<span class="srcline"><span class="lineno"><a href="64,6" id="srcline6"> 6</a></span><span class="line"></span></span>
+<span class="srcline"><span class="lineno"><a href="64,7" id="srcline7"> 7</a></span><span class="line"><span class="mxinfo " id="T4:U11"><span class="var type1" id="S7T4U26">minv</span> = <span class="mxinfo " id="T4:U13">min(<span class="mxinfo " id="T52:U14"><span class="var type1" id="S3T10U30">X</span>(:)</span>)</span></span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="64,8" id="srcline8"> 8</a></span><span class="line"><span class="mxinfo " id="T4:U16"><span class="var type1" id="S9T4U34">maxv</span> = <span class="mxinfo " id="T4:U18">max(<span class="mxinfo " id="T52:U19"><span class="var type1" id="S3T10U38">X</span>(:)</span>)</span></span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="64,9" id="srcline9"> 9</a></span><span class="line"></span></span>
+<span class="srcline"><span class="lineno"><a href="64,10" id="srcline10">10</a></span><span class="line"><span class="mxinfo " id="T10:U21"><span class="var type1" id="S2T10U42">Y</span> = <span class="mxinfo " id="T10:U23"><span class="var type1" id="S4T4U44">min_bound</span> + <span class="mxinfo " id="T10:U25">( <span class="mxinfo " id="T10:U26">(<span class="mxinfo " id="T10:U27"><span class="var type1" id="S3T10U50">X</span> - <span class="var type1" id="S7T4U51">minv</span></span>) ./ (<span class="mxinfo " id="T4:U30"><span class="var type1" id="S9T4U54">maxv</span> - <span class="var type1" id="S7T4U55">minv</span></span>)</span> ) .* (<span class="mxinfo " id="T4:U33"><span class="var type1" id="S5T4U58">max_bound</span> - <span class="var type1" id="S4T4U59">min_bound</span></span>)</span></span></span>;</span></span>
+<span class="srcline"><span class="lineno"><a href="64,11" id="srcline11">11</a></span><span class="line"></span></span>
+<span class="srcline"><span class="lineno"><a href="64,12" id="srcline12">12</a></span><span class="line"><span class="keyword">end</span></span></span>
+<span class="srcline"><span class="lineno"><a href="64,13" id="srcline13">13</a></span><span class="line"></span></span>
+</pre>
+</body>
+</html>

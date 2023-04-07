@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "F:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "F:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"F:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" --target clean"
+  ],
+  "libraries": {
+    "ecg-lib-Debug-armeabi-v7a": {
+      "artifactName": "ecg-lib",
+      "buildCommand": "F:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"F:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" --target ecg-lib",
+      "abi": "armeabi-v7a",
+      "output": "F:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\gradleBuild\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libecg-lib.so"
+    },
+    "native-lib-Debug-armeabi-v7a": {
+      "artifactName": "native-lib",
+      "buildCommand": "F:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build \"F:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\.cxx\\cmake\\debug\\armeabi-v7a\" --target native-lib",
+      "abi": "armeabi-v7a",
+      "output": "F:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\gradleBuild\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libnative-lib.so"
+    }
+  }
+}

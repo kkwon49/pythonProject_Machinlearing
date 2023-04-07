@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "132843442388",
+    "project_id": "data-storage-339220",
+    "storage_bucket": "data-storage-339220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132843442388:android:ef7b0b9d8661e741216b41",
+        "android_client_info": {
+          "package_name": "com.yeo_lab.fl_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132843442388-m3evbom184vq7v4ok57pqqh1lcv0kikp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUlrsgobgGCeCZ6f2f_JQVEbC9PBzWxAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132843442388-m3evbom184vq7v4ok57pqqh1lcv0kikp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132843442388-tlrlu6c292jqv5pcar5bpt0moblv1h02.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.musamahmood.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132843442388:android:abc013f33984cf35216b41",
+        "android_client_info": {
+          "package_name": "com.yeolabgt.mahmoodms.ppg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132843442388-m3evbom184vq7v4ok57pqqh1lcv0kikp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUlrsgobgGCeCZ6f2f_JQVEbC9PBzWxAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132843442388-m3evbom184vq7v4ok57pqqh1lcv0kikp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132843442388-tlrlu6c292jqv5pcar5bpt0moblv1h02.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.musamahmood.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

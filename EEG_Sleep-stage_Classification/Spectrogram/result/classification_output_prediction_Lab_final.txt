@@ -1,0 +1,24 @@
+Shape checking X_test image: (2705, 64, 64, 3)
+Shape checking X_train image: (2, 64, 64, 3)
+Prediction_labels: [2 3 0 ... 4 4 4]
+Test_labels: [0 0 0 ... 4 4 4]
+Model classification result -> 0.8151571164510166 ||| Model classification loss -> 0.18484288354898337
+Model Test loss -> 0.6551802754402161 , Model Test accuracy -> 0.8151571154594421
+Confusion Matrix -> 
+[[ 108    4   63   13   40]
+ [   9   34   19    0   49]
+ [   4   18 1046   10   13]
+ [   3    0  111  607    0]
+ [   8   29   80   27  410]]
+Shape checking X_test image: (2705, 64, 64, 3)
+Shape checking X_train image: (2, 64, 64, 3)
+Prediction_labels: [2 3 0 ... 4 4 4]
+Test_labels: [0 0 0 ... 4 4 4]
+Model classification result -> 0.8151571164510166 ||| Model classification loss -> 0.18484288354898337
+Model Test loss -> 0.6551802754402161 , Model Test accuracy -> 0.8151571154594421
+Confusion Matrix -> 
+[[ 108    4   63   13   40]
+ [   9   34   19    0   49]
+ [   4   18 1046   10   13]
+ [   3    0  111  607    0]
+ [   8   29   80   27  410]]

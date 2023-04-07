@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="/EMG_8BM_Classification/Raw_Data/Flexion/EMGData_C2CEF0F6F861_2021.10.02_22.31.03_250.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/Flexion/EMGData_D21F1FF44672_2021.10.02_22.31.18_250.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/Flexion/EMGData_D31A75DB2A06_2021.10.02_22.33.38_250.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/Flexion/EMGData_FBAB010FE003_2021.10.02_22.32.23_250.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/Horizontal/EMGData_C2CEF0F6F861_2021.10.02_22.36.02_250.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/Merged_Data/Flexion/EMG_F_0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/Merged_Data/Flexion/EMG_F_1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/Merged_Data/Flexion/EMG_F_5.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/Merged_Data/Flexion/EMG_F_9.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/data_time/Flexion/0/EMG_C1_0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/data_time/Flexion/0/EMG_C2_0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/data_time/Flexion/0/EMG_C3_0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/data_time/Flexion/0/EMG_C4_0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/data_time/Flexion/1/EMG_C1_1.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/data_time/Flexion/5/EMG_C2_5.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/data_time/Horizontal/0/EMG_C1_0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_8BM_Classification/Raw_Data/data_time/Horizontal/8/EMG_C1_8.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_classification-main/data_preprocessing/test.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_classification-main/data_time/Box_holding.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_classification-main_verson3/data_time/Box_holding.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/EMG_classification-main_verson3/emg.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/20211002 emg flexion horizontal flexion/data_time/Flexion/0/EMG_C1_0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/20211002 emg flexion horizontal flexion/data_time/Flexion/0/EMG_C2_0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/20211002 emg flexion horizontal flexion/data_time/Flexion/0/EMG_C3_0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/20211002 emg flexion horizontal flexion/data_time/Flexion/0/EMG_C4_0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

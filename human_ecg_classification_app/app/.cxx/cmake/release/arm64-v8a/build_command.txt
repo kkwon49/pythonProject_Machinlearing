@@ -1,0 +1,15 @@
+Executable : F:\AndroidSDK\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HF:\Dropbox (GaTech)\YeoLab\Publishing\2018-19_ECG\ecg_annotation_binary\human_ecg_classification_app\app
+-BF:\Dropbox (GaTech)\YeoLab\Publishing\2018-19_ECG\ecg_annotation_binary\human_ecg_classification_app\app\.cxx\cmake\release\arm64-v8a
+-DANDROID_ABI=arm64-v8a
+-DANDROID_PLATFORM=android-22
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=F:\Dropbox (GaTech)\YeoLab\Publishing\2018-19_ECG\ecg_annotation_binary\human_ecg_classification_app\app\gradleBuild\intermediates\cmake\release\obj\arm64-v8a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=F:\AndroidSDK\ndk-bundle
+-DCMAKE_CXX_FLAGS=-std=c++14
+-DCMAKE_TOOLCHAIN_FILE=F:\AndroidSDK\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=F:\AndroidSDK\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

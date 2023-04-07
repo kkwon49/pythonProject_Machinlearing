@@ -1,0 +1,53 @@
+[
+    {
+        "device":"FlexTechEMG",
+        "measurements":[
+            {
+                "type":"EMG",
+                "uuids":{ 
+                    "service":"228beef0-35fd-875f-39fe-b2a394d28057", 
+                    "characteristic":"0000eef1-0000-1000-8000-00805f9b34fb"
+                },
+                "sample_rate":500,
+                "bit_length": 24,
+                "big_endian": true,
+                "conversion": 2.42
+            },
+            {
+                "type":null,
+                "uuids": {
+                    "service": "228beef0-35fd-875f-39fe-b2a394d28057",
+                    "char": "0000eef2-0000-1000-8000-00805f9b34fb"
+                }
+            }
+        ]
+    },
+    {
+        "device":"CHOA Patch",
+        "measurements":[
+            {
+                "type":"ECG",
+                "uuids":{ 
+                    "service": "228beef0-35fd-875f-39fe-b2a394d28057",
+                    "characteristic": "0000eef1-0000-1000-8000-00805f9b34fb"
+                },
+                "sample_rate":250,
+                "bit_length":24,
+                "big_endian":true,
+                "conversion":2.42
+            },
+            {
+                "type":"PPG",
+                "uuids":{ 
+                    "service": "228baec0-35fd-875f-39fe-b2a394d28057",
+                    "characteristic": "228baec1-35fd-875f-39fe-b2a394d28057"
+                },
+                "sample_rate":250,
+                "bit_length":18,
+                "big_endian":true,
+                "conversion":16384.0,
+                "channels":2
+            }
+        ]
+    }
+]

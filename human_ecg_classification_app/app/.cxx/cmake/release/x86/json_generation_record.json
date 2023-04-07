@@ -1,0 +1,54 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 22 min SDK version: x86"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON F:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\.cxx\\cmake\\release\\x86\\android_gradle_build.json due to:"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder"
+  },
+  {
+    "level": "INFO",
+    "message": "- a dependent build file changed"
+  },
+  {
+    "level": "INFO",
+    "message": "  - F:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\CMakeLists.txt"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027F:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\.cxx\\cmake\\release\\x86\u0027"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027F:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\.cxx\\cmake\\release\\x86\u0027"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : F:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe\narguments : \n-HF:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\n-BF:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\.cxx\\cmake\\release\\x86\n-DANDROID_ABI\u003dx86\n-DANDROID_PLATFORM\u003dandroid-22\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dF:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\gradleBuild\\intermediates\\cmake\\release\\obj\\x86\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DANDROID_NDK\u003dF:\\AndroidSDK\\ndk-bundle\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++14\n-DCMAKE_TOOLCHAIN_FILE\u003dF:\\AndroidSDK\\ndk-bundle\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dF:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\ninja.exe\n-GAndroid Gradle - Ninja\njvmArgs : \n\n"
+  },
+  {
+    "level": "INFO",
+    "message": "Executable : F:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe\narguments : \n-HF:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\n-BF:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\.cxx\\cmake\\release\\x86\n-DANDROID_ABI\u003dx86\n-DANDROID_PLATFORM\u003dandroid-22\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dF:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\gradleBuild\\intermediates\\cmake\\release\\obj\\x86\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DANDROID_NDK\u003dF:\\AndroidSDK\\ndk-bundle\n-DCMAKE_CXX_FLAGS\u003d-std\u003dc++14\n-DCMAKE_TOOLCHAIN_FILE\u003dF:\\AndroidSDK\\ndk-bundle\\build\\cmake\\android.toolchain.cmake\n-DCMAKE_MAKE_PROGRAM\u003dF:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\ninja.exe\n-GAndroid Gradle - Ninja\njvmArgs : \n\n"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output F:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\.cxx\\cmake\\release\\x86\\build_output.txt"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file F:\\Dropbox (GaTech)\\YeoLab\\Publishing\\2018-19_ECG\\ecg_annotation_binary\\human_ecg_classification_app\\app\\.cxx\\cmake\\release\\x86\\build_command.txt"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems"
+  }
+]

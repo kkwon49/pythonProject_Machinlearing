@@ -1,0 +1,40 @@
+    
+The BIOSIG-tools are part of a large free software project for 
+biomedical signal processing. 
+http://biosig.sf.net/ is the project homepage. 
+
+All software is published under the free software license GPL.
+Read the LICENSE and http://www.fsf.org for more information. 
+
+Copyright (C) 2003,2004 Alois Schloegl <a.schloegl@ieee.org>
+
+
+=== Files  ===
+
+README		this file
+LICENSE		GPL license 
+INSTALL		how to install 
+
+
+BIOSIG/DOC/* Documentation
+
+BIOSIG/T100/* [Data Acquistion] 
+
+BIOSIG/T200/* Data Formats
+BIOSIG/T250/* Quality Control and Artifact Processing
+
+BIOSIG/T300/* Signal Processing and Feature extraction
+
+BIOSIG/T400/* Classification, Single Trial Analysis, Statistics,
+BIOSIG/T490/* Evaluation criteria
+
+BIOSIG/T500/* Presentation, Output
+BIOSIG/T550/* Topographic Mapping, 3-dimensional display
+
+BIOSIG/T600/* Interactive Viewer and Scoring  
+
+TSA/*	Time Series Analysis
+NaN/*	Statistics of data with missing values encoded as NaN's
+
+
+
